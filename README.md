@@ -12,7 +12,7 @@ This project simulates and analyzes shortest pathfinding performance over random
    from google.colab import drive
    drive.mount('/content/drive')
    ```
-3. Run the notebook to generate graphs, simulate routes, and analyze usage.
+3. Run the Final Project notebook to generate graphs, simulate routes, and analyze usage.
 
 ## 🔄 Core Workflow
 
